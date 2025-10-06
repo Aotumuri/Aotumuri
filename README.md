@@ -56,7 +56,7 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aotumuri" height="160" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/Aotumuri/svg4readme/refs/heads/main/waves.svg" />
+  <img src="https://raw.githubusercontent.com/Aotumuri/svg4readme/refs/heads/main/sample/waves.svg" />
 </div>
 <!--
 **Aotumuri/Aotumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
