@@ -31,6 +31,22 @@
 
 ---
 
+<details>
+<summary>🇩🇪 Deutsch</summary>
+
+### 👋 Hallo, ich bin Aotumuri!
+
+- 🔭 Ich arbeite derzeit an **KI für Multi-Agenten-Aufgaben** und **OpenFront** (nur ein kleiner Mitwirkender!)  
+- 🌱 Ich lerne momentan **Künstliche Intelligenz (ganz am Anfang!)** und **Englisch**  
+- 👯 Ich möchte bei **Open-Source-Spielen** und **KI-Tools** mitarbeiten  
+- 🤔 Ich suche Hilfe beim **Englischlernen** und beim **Schreiben effizienter Codes**  
+- 💬 Frag mich gerne zu **KI-bezogenen Themen!**  
+- 😄 Pronomen: **Er / Ihn**  
+- ⚡ Fun Fact: „.w.“ wird ausgesprochen als **Dot Wolfram Dot** (?)  
+</details>
+
+---
+
 <!-- GitHub Profile Stats -->
 <div align="center">
 
