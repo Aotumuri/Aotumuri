@@ -62,7 +62,7 @@
 
   <!-- Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aotumuri&theme=catppuccin_mocha&no-bg=true&no-frame=true" height="160" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=Aotumuri&theme=catppuccin_mocha&no-bg=true&no-frame=true" height="160" />
   </a>
 
   <!-- Summary Cards -->
